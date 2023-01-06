@@ -13,3 +13,16 @@ A crop's profit is predicted by the following factors:
 1. Supply and demand in the local market
 2. Weather data such as extreme weather events and supply of water
 3. Cost of inputs such as equipment and labor
+
+## Developer Documentation
+### Setup Development Environment
+1. Download and install [Visual Studio Code](https://code.visualstudio.com/)
+2. Download, install, and open [Github Desktop](https://desktop.github.com/)
+3. Clone the repository
+4. Open the repository in Visual Studio Code
+### Setup Testing Environment
+1. Download, install, and open [Expo Go](https://expo.dev/client) on your mobile device
+2. Open Visual Studio Code on your desktop
+3. Open a new terminal and run `cd CropProfitPredictor`
+4. Run `npm expo start`
+5. Scan the QR code with your mobile device
