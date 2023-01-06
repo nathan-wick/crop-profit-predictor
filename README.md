@@ -26,3 +26,19 @@ A crop's profit is predicted by the following factors:
 3. Open a new terminal and run `cd CropProfitPredictor`
 4. Run `npm expo start`
 5. Scan the QR code with your mobile device
+### Start Working on an Issue
+1. Open the [project board](https://github.com/nathan-wick/crop-profit-predictor/projects)
+2. Assign yourself to the issue in the `Todo` section that you would like to work on
+3. Move the issue from the `Todo` section to the `In Progress` section
+4. Create a new branch with the `issue#`-`issue-name` naming convention
+5. Open Github Desktop and switch to the branch created in the previous step
+6. Open the repository in Visual Studio Code
+### Create a Pull Request
+1. Open [pull requests](https://github.com/nathan-wick/crop-profit-predictor/pulls)
+2. Compare the issue's branch to the `main` branch
+3. Check that the changes show are correct and solve any merge conflicts
+4. Create a description that contains: Closes #`issue#`
+5. Request review from at least one other person
+6. Assign yourself to and submit the request
+7. Move the issue from the `In Progress` section to the `Code Review` section
+8. Complete any sugguestions from the code reviewers
