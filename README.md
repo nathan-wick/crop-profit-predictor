@@ -1,3 +1,4 @@
+# Crop Profit Predictor
 ![CropProfitPredictorBanner](https://user-images.githubusercontent.com/27981761/211037585-87a5592e-aa48-4ecb-aba5-9de24db47068.png)
 
 ## Problem
@@ -14,7 +15,9 @@ A crop's profit is predicted by the following factors:
 2. Weather data such as extreme weather events and supply of water
 3. Cost of inputs such as equipment and labor
 
-## Developer Documentation
+# Developer Documentation
+
+## Getting Started
 ### Setup Development Environment
 1. Download and install [Visual Studio Code](https://code.visualstudio.com/)
 2. Download, install, and open [Github Desktop](https://desktop.github.com/)
@@ -42,3 +45,17 @@ A crop's profit is predicted by the following factors:
 6. Assign yourself to and submit the request
 7. Move the issue from the `In Progress` section to the `Code Review` section
 8. Complete any sugguestions from the code reviewers
+
+## User Interface
+### Authentication Screen
+- Sign in with Google
+- Sign in with Apple
+### Prediction Screen
+- Request the farmer to input the neccesary information to make predictions
+- Display a list of the most profitable crops to grow
+### News Screen
+- Display the farmer's local weather, market, and community news
+- Enable the farmer to create and share posts to their local community
+### Profile Screen
+- Edit profile and prefrences
+- Sign out
